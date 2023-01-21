@@ -4,9 +4,9 @@
 # Project description
  SOEN 342 group project.  
  
-# Features
-Features of the platform
- 
+# Tasty Foodz delivery app
+A food delivery application aiming to improve modern food delivery. Offering improved UI, a way to help you overcome choice anxiety, let you quote businesses for custom products, and always aiming to include new businesses.
+
 # Members
 - Faizan Ahmad (40100581); GH: AndroidBiscuit
 - Jeremie Garzon (40062316); GH: JeremieGar
