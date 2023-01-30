@@ -32,8 +32,3 @@ In the market, many customers today are overwhelmed with the amount of choices a
 - Proposal: Sunday, 29 January 2022, 11:59 PM
 - Vision document: Sunday, 5 March 2022, 11:59 PM
 - Presentation and report: TBD
-
-# Work distribution
-- Proposal: 
-  - Meeting notes: 
-  - 
